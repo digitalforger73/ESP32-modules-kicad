@@ -1,4 +1,12 @@
-# ESP32 Community Hardware Project
+<p align="center">
+  <img src="pcb.jpg" width="800">
+</p>
+
+<h1 align="center">ESP32 Community Hardware Project</h1>
+
+<p align="center">
+A complete ESP32 reference design built with KiCad.
+</p>
 
 ## Preview
 
