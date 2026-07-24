@@ -1,0 +1,68 @@
+Ippeul Community Hardware License (ICHL) Version 1.0
+Copyright (c) 2026 Ippeul. All rights reserved.
+1. Purpose
+The purpose of this license is to encourage learning, experimentation, and personal hardware development while protecting the commercial value of the official Ippeul hardware projects.
+By downloading, copying, modifying, or using this project, you agree to the terms below.
+________________________________________
+2. You May
+You are permitted to:
+•	Download this project. 
+•	Study the schematic and PCB design. 
+•	Modify the project for your own use. 
+•	Manufacture boards for your own personal use. 
+•	Share modifications with other community members free of charge. 
+•	Publish tutorials, articles, videos, or educational material that reference this project. 
+________________________________________
+3. You May NOT
+Without written permission from Ippeul, you may NOT:
+•	Sell this project or any modified version of it. 
+•	Sell PCBs manufactured from this project. 
+•	Sell assembled products based on this project. 
+•	Upload this project to any marketplace or download site. 
+•	Redistribute this project as part of another commercial product. 
+•	Remove or alter copyright notices. 
+•	Claim this project as your own work. 
+________________________________________
+4. Commercial License
+Commercial use requires a separate commercial license from Ippeul.
+Commercial use includes, but is not limited to:
+•	Manufacturing products for sale 
+•	Selling PCB designs 
+•	Selling kits 
+•	Selling assembled hardware 
+•	Selling modified versions 
+•	Using the project in commercial training materials where the project itself is redistributed 
+________________________________________
+5. Attribution
+If you publicly share modifications or derivative works, you must include the following notice:
+Based on the Ippeul Community Hardware Project.
+Original project:
+https://github.com/koala73/your_repository
+________________________________________
+6. Trademarks
+"Ippeul", the Ippeul logo, product names, and trademarks remain the exclusive property of Ippeul.
+This license does not grant permission to use the Ippeul name or logo for commercial products.
+________________________________________
+7. No Warranty
+This project is provided "AS IS", without warranty of any kind.
+Ippeul shall not be liable for any damages arising from the use of this project.
+________________________________________
+8. Official Releases
+The official source of this project is:
+https://github.com/koala73/your_repository
+Official Professional Editions are available only from authorized distribution channels designated by Ippeul.
+________________________________________
+9. Reservation of Rights
+All rights not expressly granted by this license are reserved by Ippeul.
+________________________________________
+
+10. Community Contributions
+
+Contributions submitted to this repository may be incorporated into future Community or Professional Editions of the project.
+
+By submitting a pull request or contribution, you grant Ippeul a perpetual, worldwide, royalty-free license to use, modify, distribute, and commercially incorporate your contribution.
+
+Contributors retain copyright to their original work.
+
+Copyright (c) 2026 Ippeul.
+
