@@ -1,5 +1,17 @@
 # ESP32 Community Hardware Project
 
+## Preview
+
+### PCB
+
+![ESP32 PCB](images/pcb.jpg)
+
+### Schematic
+
+![ESP32 Schematic](images/schematic.jpg)
+
+---
+
 An open community project for learning ESP32 hardware design with KiCad.
 
 This repository contains a complete ESP32 development board designed in KiCad, intended for makers, students, and engineers who want to learn custom PCB design and build their own ESP32-based hardware.
@@ -17,18 +29,6 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 - Expansion Headers
 - Symbols and Footprints on Components
 - Component Replacement Guide
-
----
-
-## Preview
-
-### PCB
-
-![ESP32 PCB](images/pcb.jpg)
-
-### Schematic
-
-![ESP32 Schematic](images/schematic.jpg)
 
 ---
 
