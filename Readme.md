@@ -24,11 +24,11 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 
 ### PCB
 
-![ESP32 PCB](pcb.jpg)
+![ESP32 PCB](images/pcb.jpg)
 
 ### Schematic
 
-![ESP32 Schematic](schematic.jpg)
+![ESP32 Schematic](images/schematic.jpg)
 
 ---
 
