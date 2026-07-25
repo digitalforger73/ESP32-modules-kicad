@@ -14,7 +14,6 @@ A complete ESP32 reference design built with KiCad.
 
 ![ESP32 Schematic](images/schematic.jpg)
 
----
 
 An open community project for learning ESP32 hardware design with KiCad.
 
@@ -77,7 +76,6 @@ If you find this project useful, please consider:
 
 - ⭐ Starring this repository
 - Sharing it with other makers
-- Visiting https://www.ippeul.io
 
 <br><br>
 
@@ -113,7 +111,6 @@ PCB 설계자
 학생
 KiCad를 배우는 엔지니어
 자신만의 ESP32 보드를 제작하고 싶은 메이커
-Community Edition
 
 <br>
 
