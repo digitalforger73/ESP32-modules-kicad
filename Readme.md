@@ -1,4 +1,4 @@
-<h1 align="center">ESP32 Community Hardware Project</h1>
+<h1 align="center">ESP32 Community Board Project</h1>
 
 <p align="center">
 A complete ESP32 reference design built with KiCad.
@@ -107,7 +107,7 @@ If you find this project useful, please consider:
 
 <br><br>
 
-<h1 align="center">KiCad를 이용한 ESP32 하드웨어 설계를 위한 오픈 커뮤니티 프로젝트</h1>
+<h1 align="center">KiCad를 이용한 ESP32 하드웨어 설계를 위한 ESP32 커뮤니티 보드</h1>
 
 <p align="center">
 KiCad로 디자인한 기본 ESP32 보드
