@@ -21,7 +21,7 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 
 <br>
 
-## Professional Version
+## Professional Version - ESP32 Sensor Board
 
 Need an ESP32 board with integrated sensors?
 
@@ -119,13 +119,13 @@ KiCad로 디자인한 기본 ESP32 보드
 
 <br>
 
-## Professional Edition
+## ESP32 센서 보드 (유로 버전)
 
 센서가 통합된 ESP32 보드를 찾고 계신가요?
 
-**Ippeul ESP32 Sensor Board**는 Community Edition을 기반으로 온도·습도, 조도, 토양 수분 센서를 지원하도록 확장된 전문 KiCad 프로젝트입니다. IoT 기기, 식물 관리 시스템, 환경 모니터링 장치 등 다양한 하드웨어 개발에 바로 활용할 수 있습니다.
+**ESP32 Sensor Board**는 Community Edition을 기반으로 온도·습도, 조도, 토양 수분 센서를 지원하도록 확장된 전문 KiCad 프로젝트입니다. IoT 기기, 식물 관리 시스템, 환경 모니터링 장치 등 다양한 하드웨어 개발에 바로 활용할 수 있습니다.
 
-### Professional Edition 구성
+### ESP32 Sensor 구성
 
 * SHTC3 온도·습도 센서
 * 조도 센서
