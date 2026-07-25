@@ -25,7 +25,7 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 
 Need an ESP32 board with integrated sensors?
 
-The **Ippeul ESP32 Sensor Board** extends the Community Edition with a complete environmental sensing platform, making it suitable for IoT development, plant monitoring, and custom hardware projects.
+The **ESP32 Sensor Board** extends the Community Edition with a complete environmental sensing platform, making it suitable for IoT development, plant monitoring, and custom hardware projects.
 
 ### Professional Edition Includes
 
