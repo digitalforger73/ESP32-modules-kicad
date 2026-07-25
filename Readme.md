@@ -91,26 +91,26 @@ KiCad로 디자인한 기본 ESP32 보드
 
 <br>
 
-## 주요 기능
-ESP32-WROOM-32E
-USB 시리얼 인터페이스 (CH340)
-3.3V 전압 레귤레이터
-Reset 버튼 / User 버튼
-상태 표시 LED / 사용자 LED
-펌웨어 다운로드 회로
-GPIO 확장 헤더
-사용자 정의 심볼(Symbol) 및 풋프린트(Footprint)
-대체 부품 가이드(Component Replacement Guide)
+## 주요 기능 및 안내서
+- ESP32-WROOM-32E
+- USB 시리얼 인터페이스 (CH340)
+- 3.3V 전압 레귤레이터
+- Reset 버튼 / User 버튼
+- 상태 표시 LED / 사용자 LED
+- 펌웨어 다운로드 회로
+- GPIO 확장 헤더
+- 사용자 정의 심볼(Symbol) 및 풋프린트(Footprint)
+- 대체 부품 가이드(Component Replacement Guide)
 
 <br>
 
 ## 이 프로젝트는 누구를 위한 것인가요?
-ESP32를 처음 배우는 개발자
-전자공학 취미 활동가
-PCB 설계자
-학생
-KiCad를 배우는 엔지니어
-자신만의 ESP32 보드를 제작하고 싶은 메이커
+- ESP32를 처음 배우는 개발자
+- 전자공학 취미 활동가
+- PCB 설계자
+- 학생
+- KiCad를 배우는 엔지니어
+- 자신만의 ESP32 보드를 제작하고 싶은 메이커
 
 <br>
 
