@@ -20,7 +20,7 @@ An open community project for learning ESP32 hardware design with KiCad.
 
 This repository contains a complete ESP32 development board designed in KiCad, intended for makers, students, and engineers who want to learn custom PCB design and build their own ESP32-based hardware.
 
----
+<br>
 
 ## Features
 
@@ -34,7 +34,7 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 - Symbols and Footprints on Components
 - Component Replacement Guide
 
----
+<br>
 
 ## Who is this project for?
 
@@ -45,7 +45,7 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 - Engineers learning KiCad
 - Makers who want to build their own ESP32 board
 
----
+<br>
 
 ## Community Edition
 
@@ -53,20 +53,7 @@ This repository contains the **Community Edition**.
 
 The goal is to provide a minimal but practical ESP32 reference design that anyone can study and build.
 
----
-
-## Professional Editions
-
-Professional versions are available separately and include additional features such as:
-
-- Buck-Boost Power Supply
-- LiPo Battery Charger
-- Ultra-Low-Power Design
-- Battery Powered Operation
-- Additional Sensors
-- Production-ready Hardware
-
----
+<br>
 
 ## Documentation
 
@@ -74,7 +61,7 @@ Professional versions are available separately and include additional features s
 - Assembly Guide
 - Hardware Documentation
 
----
+<br>
 
 ## License
 
@@ -82,13 +69,7 @@ This project is licensed under the **Ippeul Community Hardware License (ICHL)**.
 
 See the LICENSE file for details.
 
----
-
-## Website
-
-https://www.ippeul.io
-
----
+<br>
 
 ## Support
 
@@ -98,7 +79,7 @@ If you find this project useful, please consider:
 - Sharing it with other makers
 - Visiting https://www.ippeul.io
 
-
+<br><br>
 
 <h1 align="center">KiCad를 이용한 ESP32 하드웨어 설계를 위한 오픈 커뮤니티 프로젝트</h1>
 
@@ -106,11 +87,11 @@ If you find this project useful, please consider:
 KiCad로 디자인한 기본 ESP32 보드
 </p>
 
----
+<br>
 
 이 저장소는 KiCad로 설계된 완전한 ESP32 개발 보드 프로젝트를 포함하고 있으며, 커스텀 PCB 설계를 배우고 자신만의 ESP32 기반 하드웨어를 제작하려는 메이커, 학생, 엔지니어를 위해 제작되었습니다.
 
----
+<br>
 
 ## 주요 기능
 ESP32-WROOM-32E
@@ -123,7 +104,7 @@ GPIO 확장 헤더
 사용자 정의 심볼(Symbol) 및 풋프린트(Footprint)
 대체 부품 가이드(Component Replacement Guide)
 
----
+<br>
 
 ## 이 프로젝트는 누구를 위한 것인가요?
 ESP32를 처음 배우는 개발자
@@ -134,107 +115,75 @@ KiCad를 배우는 엔지니어
 자신만의 ESP32 보드를 제작하고 싶은 메이커
 Community Edition
 
----
+<br>
 
 이 저장소에는 Community Edition이 포함되어 있습니다.
 
 이 프로젝트의 목표는 누구나 학습하고 직접 제작할 수 있는 최소한의 기능을 갖춘 실용적인 ESP32 레퍼런스 디자인을 제공하는 것입니다.
 
----
-## Professional Edition
-
-Professional 버전은 별도로 제공되며, 다음과 같은 추가 기능을 포함합니다.
-
-Buck-Boost 전원 회로
-LiPo 배터리 충전 회로
-초저전력(Ultra-Low-Power) 설계
-배터리 구동 지원
-추가 센서
-제품 양산을 고려한 하드웨어
-제공 문서
-대체 부품 가이드 (Component Replacement Guide)
-조립 가이드 (Assembly Guide)
-하드웨어 설계 가이드 (Hardware Design Guide)
-라이선스
-
----
-
+<br>
 이 프로젝트는 Ippeul Community Hardware License (ICHL)에 따라 배포됩니다.
-
 자세한 내용은 LICENSE 파일을 참고하시기 바랍니다.
 
-홈페이지
-
-https://www.ippeul.io
-
+<br>
 프로젝트가 도움이 되었다면
 
 이 프로젝트가 도움이 되었다면 다음과 같은 방법으로 응원해 주세요.
 
----
+<br>
 
 ⭐ GitHub 저장소에 Star를 눌러 주세요.
 다른 메이커와 개발자들에게 프로젝트를 공유해 주세요.
-https://www.ippeul.io 를 방문하여 더 많은 프로젝트와 자료를 확인해 보세요.
 
----
-
+<br><br>
 
 
-# ESP32 개발보드에서 커스텀 PCB까지
+# ESP32 PCB 설계를 제대로 배우고 싶다면
 
 ## KiCad로 만드는 나만의 센서 보드
 
-![ESP32 PCB](images/board.jpg)
+![ESP32 BOARD](images/board.jpg)
 (강의에서 제작하는 pcb)
+<br>
 
-ESP32 개발보드와 센서 모듈을 점퍼선으로 연결하는 데는 익숙하지만, 나만의 PCB를 만들려 하면 어디서부터 시작해야 할지 막막한가요?
+ESP32 개발보드와 센서 모듈을 점퍼선으로 연결하는 데는 익숙하지만, 나만의 PCB를 설계하는 것은 막막하게 느껴질 수 있습니다.
+<br>
 
-인터넷에는 ESP32 회로, KiCad 사용법, PCB 주문법에 관한 정보가 많습니다. 그러나 전원 회로와 USB 통신 회로를 구성하고, 센서를 연결하고, PCB를 배선한 뒤 실제 제조 파일과 펌웨어까지 완성하는 전체 과정은 한곳에서 찾기 어렵습니다.
+이 강의에서는 실제 ESP32 센서 보드 프로젝트를 예제로 사용하여 다음 과정을 단계별로 배웁니다.
+<br>
 
-이 강의에서는 이미 완성된 ESP32 센서 보드 프로젝트를 따라가며 다음 과정을 직접 경험합니다.
+ESP32 기본 회로 이해
+USB-C 전원 및 3.3V 전원 회로 설계
+CH340 기반 펌웨어 다운로드 회로
+센서와 버튼·LED 연결
+KiCad 회로도 및 PCB 설계
+PCB 제조 파일 생성 및 주문
+ESP32 펌웨어 작성
+BLE와 Wi-Fi 통신 구현
+<br>
 
-* ESP32 기본 회로와 주요 핀 이해
-* USB-C 전원과 5V→3.3V 전원 회로 설계
-* CH340을 이용한 펌웨어 다운로드 회로 구성
-* 온습도·조도 센서와 버튼·LED 연결
-* KiCad 회로도 작성과 부품 라이브러리 관리
-* 4층 PCB 부품 배치와 배선
-* DRC 검사와 제조 파일 생성
-* PCB 제조업체 주문
-* 완성된 보드를 구동하는 펌웨어 작성
-* BLE와 Wi-Fi를 이용한 외부 통신
+강의를 마치면 개발보드를 사용하는 수준을 넘어, 원하는 기능을 갖춘 ESP32 PCB를 이해하고 직접 수정하거나 설계할 수 있습니다.
+<br>
 
-강의를 마치면 ESP32 개발보드를 사용하는 수준을 넘어, 내가 원하는 센서와 기능을 넣은 PCB를 이해하고 수정할 수 있게 됩니다.
+이런 분께 추천합니다
+ESP32 개발보드는 사용해봤지만 PCB 설계는 처음인 분
+KiCad를 실제 프로젝트를 통해 배우고 싶은 분
+센서 기반 IoT 기기나 교육용 보드를 만들고 싶은 메이커
+하드웨어와 펌웨어를 함께 이해하고 싶은 개발자
+자신만의 IoT 시제품을 만들고 싶은 예비 창업자
+<br>
 
-또한 강의에서 제공하는 KiCad 프로젝트와 단계별 펌웨어는 이후 환경 센서, 스마트홈 장치, 교육용 보드, 로봇, IoT 시제품을 만드는 출발점으로 다시 활용할 수 있습니다.
+강의에서는 수정 가능한 KiCad 프로젝트와 단계별 펌웨어를 함께 제공하여, 이후 다양한 ESP32 기반 프로젝트의 출발점으로 활용할 수 있습니다.
+<br>
 
-## 이런 분에게 권합니다
+개발보드를 사용하는 사람에서, 자신의 보드를 설계하는 사람으로 한 단계 성장해 보세요.
+<br>
 
-* 아두이노와 ESP32 개발보드는 사용해봤지만 PCB 설계는 처음인 분
-* 점퍼선으로 만든 프로젝트를 하나의 보드로 정리하고 싶은 분
-* KiCad를 실제 ESP32 프로젝트를 통해 배우고 싶은 분
-* 센서 기반 제품이나 교육 키트를 개발하고 싶은 메이커
-* 하드웨어와 펌웨어를 함께 이해하고 싶은 소프트웨어 개발자
-* 자신만의 IoT 시제품을 만들고 싶은 예비 창업자
-
-## 이런 분에게는 적합하지 않을 수 있습니다
-
-* 회로와 PCB 설계 없이 ESP32 코딩만 배우고 싶은 분
-* 클라우드 서버나 Android 앱 개발만을 원하는 분
-* 고속 디지털 회로나 산업용 양산 설계를 찾는 숙련 하드웨어 엔지니어
-
-## 강의를 통해 얻게 되는 결과
-
-강의가 끝나면 영상을 시청했다는 기록만 남는 것이 아닙니다.
-
-수정 가능한 KiCad 프로젝트, 제조 가능한 PCB 설계, 부품 라이브러리, 단계별 펌웨어와 이후 프로젝트에서 다시 사용할 수 있는 ESP32 회로 설계 경험이 남습니다.
-
-개발보드를 사용하는 사람에서, 자신의 보드를 설계하는 사람으로 넘어가세요.
-
-![ESP32 PCB](images/before-after.jpg)
+![ESP32 BEFORE_AFTER](images/before-after.jpg)
 (좌: 아두이노와 센서들이 각종 배선으로 연결된 시스템, 우: 센서와 ESP32가 일체화된 정돈된 커스텀 pcb)
+<br>
 
 강의 링크:
 https://inf.run/ZeYXg
 
+<br>
