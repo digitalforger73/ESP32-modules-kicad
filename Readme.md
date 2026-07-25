@@ -100,12 +100,19 @@ If you find this project useful, please consider:
 
 
 
+<h1 align="center">KiCad를 이용한 ESP32 하드웨어 설계를 위한 오픈 커뮤니티 프로젝트</h1>
 
-KiCad를 이용한 ESP32 하드웨어 설계를 위한 오픈 커뮤니티 프로젝트
+<p align="center">
+KiCad로 디자인한 기본 ESP32 보드
+</p>
+
+---
 
 이 저장소는 KiCad로 설계된 완전한 ESP32 개발 보드 프로젝트를 포함하고 있으며, 커스텀 PCB 설계를 배우고 자신만의 ESP32 기반 하드웨어를 제작하려는 메이커, 학생, 엔지니어를 위해 제작되었습니다.
 
-주요 기능
+---
+
+## 주요 기능
 ESP32-WROOM-32E
 USB 시리얼 인터페이스 (CH340)
 3.3V 전압 레귤레이터
@@ -115,7 +122,10 @@ Reset 버튼 / User 버튼
 GPIO 확장 헤더
 사용자 정의 심볼(Symbol) 및 풋프린트(Footprint)
 대체 부품 가이드(Component Replacement Guide)
-이 프로젝트는 누구를 위한 것인가요?
+
+---
+
+## 이 프로젝트는 누구를 위한 것인가요?
 ESP32를 처음 배우는 개발자
 전자공학 취미 활동가
 PCB 설계자
@@ -124,11 +134,14 @@ KiCad를 배우는 엔지니어
 자신만의 ESP32 보드를 제작하고 싶은 메이커
 Community Edition
 
+---
+
 이 저장소에는 Community Edition이 포함되어 있습니다.
 
 이 프로젝트의 목표는 누구나 학습하고 직접 제작할 수 있는 최소한의 기능을 갖춘 실용적인 ESP32 레퍼런스 디자인을 제공하는 것입니다.
 
-Professional Edition
+---
+## Professional Edition
 
 Professional 버전은 별도로 제공되며, 다음과 같은 추가 기능을 포함합니다.
 
@@ -144,6 +157,8 @@ LiPo 배터리 충전 회로
 하드웨어 설계 가이드 (Hardware Design Guide)
 라이선스
 
+---
+
 이 프로젝트는 Ippeul Community Hardware License (ICHL)에 따라 배포됩니다.
 
 자세한 내용은 LICENSE 파일을 참고하시기 바랍니다.
@@ -156,10 +171,13 @@ https://www.ippeul.io
 
 이 프로젝트가 도움이 되었다면 다음과 같은 방법으로 응원해 주세요.
 
+---
+
 ⭐ GitHub 저장소에 Star를 눌러 주세요.
 다른 메이커와 개발자들에게 프로젝트를 공유해 주세요.
 https://www.ippeul.io 를 방문하여 더 많은 프로젝트와 자료를 확인해 보세요.
 
+---
 
 
 
