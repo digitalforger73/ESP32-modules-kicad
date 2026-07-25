@@ -21,6 +21,31 @@ This repository contains a complete ESP32 development board designed in KiCad, i
 
 <br>
 
+## Professional Version
+
+Need an ESP32 board with integrated sensors?
+
+The **Ippeul ESP32 Sensor Board** extends the Community Edition with a complete environmental sensing platform, making it suitable for IoT development, plant monitoring, and custom hardware projects.
+
+### Professional Edition Includes
+
+* SHTC3 temperature and humidity sensor
+* Ambient light sensor
+* Capacitive soil moisture sensor connector
+* Complete KiCad project
+* Schematic and PCB layout
+* Symbol & footprint libraries
+* BOM and Gerber files
+* Component replacement guide
+* Documentation
+
+👉 **Professional Version on Gumroad**
+https://greentam.gumroad.com/l/qnishe
+
+If you're looking for a solid starting point for your next ESP32 hardware project, the Professional Edition is designed to save development time while remaining fully customizable.
+
+<br>
+
 ## Features
 
 - ESP32-WROOM-32E
@@ -77,6 +102,9 @@ If you find this project useful, please consider:
 - ⭐ Starring this repository
 - Sharing it with other makers
 
+
+
+
 <br><br>
 
 <h1 align="center">KiCad를 이용한 ESP32 하드웨어 설계를 위한 오픈 커뮤니티 프로젝트</h1>
@@ -88,6 +116,32 @@ KiCad로 디자인한 기본 ESP32 보드
 <br>
 
 이 저장소는 KiCad로 설계된 완전한 ESP32 개발 보드 프로젝트를 포함하고 있으며, 커스텀 PCB 설계를 배우고 자신만의 ESP32 기반 하드웨어를 제작하려는 메이커, 학생, 엔지니어를 위해 제작되었습니다.
+
+<br>
+
+## Professional Edition
+
+센서가 통합된 ESP32 보드를 찾고 계신가요?
+
+**Ippeul ESP32 Sensor Board**는 Community Edition을 기반으로 온도·습도, 조도, 토양 수분 센서를 지원하도록 확장된 전문 KiCad 프로젝트입니다. IoT 기기, 식물 관리 시스템, 환경 모니터링 장치 등 다양한 하드웨어 개발에 바로 활용할 수 있습니다.
+
+### Professional Edition 구성
+
+* SHTC3 온도·습도 센서
+* 조도 센서
+* 정전용량식 토양 수분 센서 연결 헤더
+* 완전한 KiCad 프로젝트
+* 회로도 및 PCB 설계
+* 심볼 및 풋프린트 라이브러리
+* BOM 및 Gerber 파일
+* 부품 교체 가이드
+* 프로젝트 문서
+
+👉 Gumroad에서 다운로드:
+
+**https://greentam.gumroad.com/l/qnishe**
+
+다음 ESP32 하드웨어 프로젝트를 보다 빠르게 시작하고 싶다면, Professional Edition은 검증된 회로와 PCB 설계를 바탕으로 개발 시간을 줄이면서도 자유롭게 수정하고 확장할 수 있는 기반을 제공합니다.
 
 <br>
 
