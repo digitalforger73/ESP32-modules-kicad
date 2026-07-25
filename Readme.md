@@ -104,6 +104,9 @@ If you find this project useful, please consider:
 
 ## KiCad로 만드는 나만의 센서 보드
 
+![ESP32 PCB](images/board.jpg)
+(강의에서 제작하는 pcb)
+
 ESP32 개발보드와 센서 모듈을 점퍼선으로 연결하는 데는 익숙하지만, 나만의 PCB를 만들려 하면 어디서부터 시작해야 할지 막막한가요?
 
 인터넷에는 ESP32 회로, KiCad 사용법, PCB 주문법에 관한 정보가 많습니다. 그러나 전원 회로와 USB 통신 회로를 구성하고, 센서를 연결하고, PCB를 배선한 뒤 실제 제조 파일과 펌웨어까지 완성하는 전체 과정은 한곳에서 찾기 어렵습니다.
