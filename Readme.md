@@ -58,6 +58,10 @@ If you're looking for a solid starting point for your next ESP32 hardware projec
 - Symbols and Footprints on Components
 - Component Replacement Guide
 
+The project file contains the 4-layer substrate layout (front signal, 3.3 volt plane, ground plane, and back signal), and satisfies the pcb specification of the manufacturer, JLCPCB. 
+You can give an order by uploading the gerber files, placement file, and bill-of-materials included.
+However, you can edit the files to match the specification of your chosen manufacturer.
+
 <br>
 
 ## Who is this project for?
@@ -155,6 +159,10 @@ KiCad로 디자인한 기본 ESP32 보드
 - GPIO 확장 헤더
 - 사용자 정의 심볼(Symbol) 및 풋프린트(Footprint)
 - 대체 부품 가이드(Component Replacement Guide)
+
+프로젝트 파일에는 4층 기판 구조가 포함되어 있습니다. 각 층은 전면 신호층, 3.3V 전원층, 접지층, 후면 신호층으로 구성되어 있으며, PCB 제조업체인 JLCPCB의 제작 사양을 충족합니다.
+포함된 거버 파일, 부품 배치 파일, BOM(Bill of Materials)을 업로드하여 바로 제작을 주문할 수 있습니다.
+다만 선택한 PCB 제조업체의 제작 사양에 맞게 프로젝트 파일을 수정하여 사용할 수도 있습니다.
 
 <br>
 
