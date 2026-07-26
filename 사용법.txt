@@ -1,0 +1,12 @@
+이 프로젝트는 KiCad 10에서 작성되었습니다.
+
+1. "ESP32 Board Package Installation" 문서를 참고하여 ESP32 보드 패키지를 설치합니다.
+
+2. KiCad에 User 심볼 라이브러리와 User 풋프린트 라이브러리를 생성합니다.
+일반적인 위치:
+{사용자 홈 디렉터리}/Documents/KiCad/10.0/symbols
+{사용자 홈 디렉터리}/Documents/KiCad/10.0/footprints
+
+3. components 디렉터리의 모든 압축 파일을 원하는 위치에 풀고, 포함된 심볼(Symbol) 및 풋프린트(Footprint) 라이브러리를 KiCad의 User 라이브러리에 추가합니다.
+
+4. 부품이 누락되었거나 원하는 부품으로 교체하려는 경우에는 "How to Replace a Part" 문서를 참고하십시오.
