@@ -40,6 +40,7 @@ The **ESP32 Sensor Board** extends the Community Edition with a complete environ
 * Documentation
 
 👉 **Professional Version on Gumroad**
+
 https://greentam.gumroad.com/
 
 If you're looking for a solid starting point for your next ESP32 hardware project, the Professional Edition is designed to save development time while remaining fully customizable.
