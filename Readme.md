@@ -41,7 +41,7 @@ The **ESP32 Sensor Board** extends the Community Edition with a complete environ
 
 👉 **Professional Version on Gumroad**
 
-https://greentam.gumroad.com/
+[https://greentam.gumroad.com/](https://greentam.gumroad.com/?utm_source=github&utm_medium=readme&utm_campaign=community)
 
 If you're looking for a solid starting point for your next ESP32 hardware project, the Professional Edition is designed to save development time while remaining fully customizable.
 
@@ -144,7 +144,7 @@ KiCad로 디자인한 기본 ESP32 보드
 
 👉 Gumroad에서 다운로드:
 
-https://greentam.gumroad.com/
+[https://greentam.gumroad.com/](https://greentam.gumroad.com/?utm_source=github&utm_medium=readme&utm_campaign=community)
 
 다음 ESP32 하드웨어 프로젝트를 보다 빠르게 시작하고 싶다면, ESP32 센서 보드는 검증된 회로와 PCB 설계를 바탕으로 개발 시간을 줄이면서도 자유롭게 수정하고 확장할 수 있는 기반을 제공합니다.
 
